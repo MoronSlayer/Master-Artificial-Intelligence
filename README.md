@@ -1,2 +1,2 @@
-# Master-Artificial-Intelligence-
+# Master-Artificial-Intelligence
 AI demystified.
